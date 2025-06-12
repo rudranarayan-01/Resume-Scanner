@@ -1,4 +1,4 @@
-readme file of python resyme scanner and suggestion generator
+readme file of python resume scanner and suggestion generator
 python flask 
 ml models
 ml 
