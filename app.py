@@ -44,8 +44,6 @@ def pdf_to_text(file):
     return text
 
 
-
-
 # resume parsing
 import re
 
@@ -260,4 +258,4 @@ def pred():
         return render_template("resume.html", message="No resume file uploaded.")
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=8080)
