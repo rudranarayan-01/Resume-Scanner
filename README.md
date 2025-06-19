@@ -85,5 +85,17 @@ A machine learning-powered Flask web application that parses resumes, extracts k
 
 - Output: Ranked job titles or descriptions
 
+## 📎 Dependencies
+```bash
+Flask
+PyPDF2
+scikit-learn
+numpy
+pandas
+```
+Install via:
+```bash
+pip install -r requirements.txt
+```
 
 Live Link : https://resume-scanner-kf3w.onrender.com
