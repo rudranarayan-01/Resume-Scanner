@@ -68,6 +68,22 @@ A machine learning-powered Flask web application that parses resumes, extracts k
   Navigate to http://127.0.0.1:5000/
   ```
 
+## 📊 ML Model Training (Summary)
+### Resume Categorizer
+
+- Model: Logistic Regression / Naive Bayes
+
+- Input: Cleaned resume text
+
+- Output: Predicted job domain
+
+### Job Recommender
+
+- Model: Content-based filtering / TF-IDF similarity
+
+- Input: Parsed skills and experience
+
+- Output: Ranked job titles or descriptions
 
 
 Live Link : https://resume-scanner-kf3w.onrender.com
