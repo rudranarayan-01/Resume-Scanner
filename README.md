@@ -25,7 +25,23 @@ A machine learning-powered Flask web application that parses resumes, extracts k
 
 ---
 
+## 🧪 How it Works
 
+1. **User uploads resume (PDF)**
+2. **Resume is parsed and cleaned using `PyPDF2`**
+3. **Extracted text is passed through the categorizer model**
+4. **Relevant job recommendations are fetched from the recommender model**
+5. **Results are displayed in a user-friendly format**
+
+---
+
+## 💻 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/Resume-Scanner.git
+   cd Resume-Scanner
+```
 
 
 Live Link : https://resume-scanner-kf3w.onrender.com
