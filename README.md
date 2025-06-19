@@ -41,27 +41,28 @@ A machine learning-powered Flask web application that parses resumes, extracts k
    ```bash
    git clone https://github.com/yourusername/Resume-Scanner.git
    cd Resume-Scanner
-```
+  ```
 
-Create a virtual environment (optional but recommended)
+2. Create a virtual environment (optional but recommended)
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-Install dependencies
+3. **Install dependencies**
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the application
+4. **Run the application**
 
 ```bash
 python app.py
 ```
-Open in browser
+
+5. **Open in browser**
 
 ```bash
 Navigate to http://127.0.0.1:5000/
