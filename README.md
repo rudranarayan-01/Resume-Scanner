@@ -41,7 +41,7 @@ A machine learning-powered Flask web application that parses resumes, extracts k
    ```bash
    git clone https://github.com/yourusername/Resume-Scanner.git
    cd Resume-Scanner
-  ```
+   ```
 
 2. Create a virtual environment (optional but recommended)
 
