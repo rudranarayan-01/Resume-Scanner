@@ -45,28 +45,28 @@ A machine learning-powered Flask web application that parses resumes, extracts k
 
 2. Create a virtual environment (optional but recommended)
 
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
+  ```bash
+  python -m venv venv
+  source venv/bin/activate  # On Windows: venv\Scripts\activate
+  ```
 
 3. **Install dependencies**
 
-```bash
-pip install -r requirements.txt
-```
+  ```bash
+  pip install -r requirements.txt
+  ```
 
 4. **Run the application**
 
-```bash
-python app.py
-```
+  ```bash
+  python app.py
+  ```
 
 5. **Open in browser**
 
-```bash
-Navigate to http://127.0.0.1:5000/
-```
+  ```bash
+  Navigate to http://127.0.0.1:5000/
+  ```
 
 
 
