@@ -25,26 +25,7 @@ A machine learning-powered Flask web application that parses resumes, extracts k
 
 ---
 
-## 📂 Project Structure
 
-resume-job-recommender/
-│
-├── static/ # CSS/JS files
-├── templates/ # HTML templates
-│ ├── index.html
-│ └── result.html
-│
-├── models/
-│ ├── resume_categorizer.pkl
-│ └── job_recommender.pkl
-│
-├── utils/
-│ ├── resume_parser.py # Resume text extractor
-│ └── recommender.py # Logic for categorization and recommendation
-│
-├── app.py # Flask server
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
 
 
 Live Link : https://resume-scanner-kf3w.onrender.com
